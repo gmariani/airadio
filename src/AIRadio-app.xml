@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.6">
+	<id>com.coursevector.airadio.AIRadio</id>
+	
+
+
+
+  <!--<version>1.6.0</version>-->
+	<versionLabel>1.6.0</versionLabel>
+	<versionNumber>1.6.0</versionNumber>
+	<filename>AIRadio</filename>
+	<name>Course Vector AIRadio</name>
+	
+	<description>AIRadio plays O'Rock 105.9 !!!</description>
+
+	<copyright>Copyright (c) 2014 Course Vector</copyright>
+
+	<initialWindow>
+		  <content>AIRadio.swf</content>
+		  <systemChrome>standard</systemChrome>
+		  <transparent>false</transparent>
+		  <visible>true</visible>
+		  <maximizable>false</maximizable>
+		  <minimizable>true</minimizable>
+		  <resizable>false</resizable>
+	</initialWindow>
+
+	<icon>
+		  <image128x128>icons/AIRadio_128.png</image128x128>
+		  <image48x48>icons/AIRadio_48.png</image48x48>
+		  <image32x32>icons/AIRadio_32.png</image32x32>
+		  <image16x16>icons/AIRadio_16.png</image16x16>
+	</icon>
+
+	<customUpdateUI>false</customUpdateUI>
+	<allowBrowserInvocation>false</allowBrowserInvocation>
+	<installFolder>Course Vector</installFolder>
+	<programMenuFolder>Course Vector</programMenuFolder>
+  
+
+</application>
