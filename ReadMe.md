@@ -9,4 +9,5 @@ AIRadio is an AIR based web radio player. It loads the play.it radio player powe
 - Auto-update capability
 
 ![Default UI](/assets/screenshot.jpg)
+
 *Default UI*
